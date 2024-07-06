@@ -1,16 +1,19 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQzaTJ1bWY0ZTI2ZDdqMGI2Z2ppY3YybmxpZHZlOWJkazhyYmtyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s63Jzew1dfO3j6nndV/giphy.gif" width="500" height="400"/>
+</div>
 
-<!--
-**akasr/akasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
+---
+- :telescope: I am a student frm India
+- :zap: I am learning programming, with Python
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+---
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akasr)
