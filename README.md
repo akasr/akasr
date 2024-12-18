@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
 <h3 align="center">A student from India with interests in Computer Science</h3>
 
-- 🌱 I’m currently learning **Programming with C**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://roshiv.notion.site](https://roshiv.notion.site)
 
