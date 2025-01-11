@@ -1,13 +1,25 @@
-<h1 align="center">Hi 👋, I'm Akash Raj</h1>
-<h3 align="center">A student from India with interests in Computer Science</h3>
+# 👋 Hi, I'm Akash Raj!
 
-- 🌱 I’m currently learning **Web Development**
+🌟 **Welcome to my GitHub!**
 
-- 👨‍💻 All of my projects are available at [https://roshiv.notion.site](https://roshiv.notion.site)
+I'm a 4th-semester Mechanical Engineering student at NIT Patna with a keen interest in Computer Science and Web Development. I'm currently exploring topics like Linux, DSA, and modern web technologies.
 
-- 📫 How to reach me **ebookexer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+### 🔭 Current Focus
+- 🌐 **Web Development**: Learning HTML, CSS, JavaScript, React, and Node.js.
+- 🖥️ **Computer Science**: Deep dive into Linux, Operating Systems, and Networking.
+- 📚 **DSA**: Problem-solving and coding challenges in C++.
+
+
+### 🚀 Goals
+- 🏆 Contribute to **Linux** and become an expert.
+- 🌱 Secure an **internship in summer 2025** or qualify for **GSoC 2025**.
+- 💡 Build impactful projects to enhance my skills.
+
+
+
+### 📫 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/akasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akasr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akasr" height="30" width="40" /></a>
@@ -16,7 +28,10 @@
 <a href="https://www.leetcode.com/akasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akasr" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3> </p>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akasr&show_icons=true&locale=en&layout=compact" alt="akasr" /></p>
+
+
+✨ Thanks for visiting my profile! Feel free to explore and connect! 😊
