@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PaperMill](https://github.com/akasr/papermill)
 - 🌱 I’m currently learning **DSA**
-- 👨‍💻 All of my projects are available at [https://akasr.github.io](https://rajakash.tech)
+- 👨‍💻 All of my projects are available at [https://rajakash.tech](https://rajakash.tech)
 - 📫 How to reach me **rajakash.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
